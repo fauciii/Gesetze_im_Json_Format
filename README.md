@@ -1,6 +1,6 @@
-# Deutsches Wehrrecht als JSON
+# Deutsches Gesetze als JSON
 
-Dieses Repository stellt die wichtigsten Gesetze und Verordnungen für Soldatinnen und Soldaten der Bundeswehr im **JSON-Format** zur Verfügung. 
+Dieses Repository stellt die wichtigsten Gesetze und Verordnungen besonders relevant für Soldatinnen und Soldaten der Bundeswehr im **JSON-Format** zur Verfügung. 
 
 ## Enthaltene Gesetze & Verordnungen
 
